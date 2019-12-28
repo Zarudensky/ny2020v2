@@ -84,7 +84,59 @@ body {
   margin-bottom: 10px;
   animation: opacityText 1.5s 1 linear;
 }
-
+.list__page {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100vh;
+}
+.firebase {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.refresh {
+  width: 220px;
+  height: 45px;
+  font-size: 22px;
+  color: #fff;
+  background: #df626c;
+  border-radius: 3px;
+  margin-bottom: 45px;
+  cursor: pointer;
+}
+.firebase__title {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #27456b;
+  margin-bottom: 20px;
+}
+.firebase__list {
+  width: 100%;
+  font-family: 'Roboto', sans-serif;
+}
+.firebase__list table {
+  width: 100%;
+  max-width: 600px;
+  margin: 0 auto;
+  border-spacing: 0;
+  border-collapse: collapse;
+}
+.firebase__list thead {
+  color: #27456b;
+}
+.firebase__list tbody {
+  color: #60a6ad;
+}
+.firebase__list td {
+  width: 20%;
+  text-align: center;
+  border: solid 1px #ccc;
+}
 @media screen and (max-width: 1200px) {
   .content {
     margin-top: -100px;
