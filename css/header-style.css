@@ -1,0 +1,303 @@
+#Vector_38, #Vector_39, #Vector_40, #Vector_203, #Vector_204,
+#Vector_205, #Vector_337, #Vector_338, #Vector_339, #Vector_342 {
+  fill: #60a6ad; /*blue*/
+}
+#Group_10 path, #Group_11 path, #Group_12 path, #Group_13 path,
+#Group_24 path, #Group_25 path, #Group_26 path, #Group_27 path,
+#Vector_6, #Vector_7, #Vector_10, #Vector_11, #Vector_12,
+#Vector_20, #Vector_23, #Vector_24, #Vector_31, #Vector_55,
+#Vector_56, #Vector_58, #Vector_59, #Vector_60, #Vector_64,
+#Vector_162, #Vector_167, #Vector_173, #Vector_174, #Vector_177,
+#Vector_178, #Vector_179, #Vector_187, #Vector_190, #Vector_191,
+#Vector_197, #Vector_327, #Vector_332 {
+  stroke: #60a6ad; /*blue*/
+}
+
+#Vector_334 {
+  fill: #27456b; /*navy blue*/
+}
+#Vector_8, #Vector_9, #Vector_14, #Vector_15, #Vector_16,
+#Vector_19, #Vector_21, #Vector_175, #Vector_176, #Vector_181,
+#Vector_182, #Vector_183, #Vector_186,#Vector_188 {
+  stroke: #27456b; /*navy blue*/
+}
+
+#Vector_34, #Vector_200, #Vector_335, #Vector_336,
+#Vector_340, #Vector_343 {
+  fill: #df626c; /*pink*/
+}
+#Vector_13, #Vector_17, #Vector_18, #Vector_25,
+#Vector_26, #Vector_28, #Vector_29, #Vector_32,
+#Vector_37, #Vector_41, #Vector_42, #Vector_43,
+#Vector_46, #Vector_48, #Vector_49, #Vector_50,
+#Vector_51, #Vector_65, #Vector_66, #Vector_67,
+#Vector_68, #Vector_69, #Vector_70, #Vector_158,
+#Vector_160, #Vector_161, #Vector_180, #Vector_184,
+#Vector_185, #Vector_192, #Vector_193, #Vector_195,
+#Vector_196, #Vector_198, #Vector_202, #Vector_206,
+#Vector_207, #Vector_208, #Vector_211, #Vector_213,
+#Vector_214, #Vector_215, #Vector_216, #Vector_323,
+#Vector_325, #Vector_326, #Vector_333 {
+  stroke: #df626c; /*pink*/
+}
+
+#Vector_22, #Vector_27, #Vector_189, #Vector_194,
+#Vector_341, #Vector_344 {
+  fill: #efc53e; /*yellow*/
+}
+#Group_9 path, #Group_14 path, #Group_23 path, #Group_28 path,
+#under-circle1, #under-cirlce2,
+#Vector_33, #Vector_35, #Vector_36, #Vector_44, #Vector_45,
+#Vector_47, #Vector_52, #Vector_61, #Vector_62, #Vector_63,
+#Vector_159, #Vector_163, #Vector_164, #Vector_165, 
+#Vector_166, #Vector_199, #Vector_201, #Vector_209, 
+#Vector_210, #Vector_212, #Vector_217, #Vector_328, 
+#Vector_329, #Vector_330,#Vector_331, #Vector_324 {
+  stroke: #efc53e; /*yellow*/
+}
+
+#under-circle1, #Vector_30 {
+  -webkit-animation: rotate-center 2s linear infinite both;
+  -moz-animation: rotate-center 2s linear infinite both;
+  -ms-animation: rotate-center 2s linear infinite both;
+  -o-animation:rotate-center 2s linear infinite both;
+  animation: rotate-center 2s linear infinite both;
+  transform-box: fill-box;
+  transform-origin: center;
+}
+
+#small-cicle1, #under-cirlce2, #Group_16, #Vector_35 {
+  -webkit-animation: rotate-center 3s linear infinite both;
+  -moz-animation: rotate-center 3s linear infinite both;
+  -ms-animation: rotate-center 3s linear infinite both;
+  -o-animation: rotate-center 3s linear infinite both;
+  animation: rotate-center 3s linear infinite both;
+  transform-box: fill-box;
+  transform-origin: center; 
+}
+
+#circle1, #Group_15 {
+  -webkit-animation: rotate-center 1s linear infinite both;
+  -moz-animation: rotate-center 1s linear infinite both;
+  -ms-animation: rotate-center 1s linear infinite both;
+  -o-animation: rotate-center 1s linear infinite both;
+  animation: rotate-center 1s linear infinite both;
+  transform-box: fill-box;
+  transform-origin: center;  
+}
+
+#Vector_24, #Vector_191 {
+  -webkit-animation: flip-vertical-left 2s cubic-bezier(0.455, 0.030, 0.515, 0.955) infinite alternate both;
+  -moz-animation: flip-vertical-left 2s cubic-bezier(0.455, 0.030, 0.515, 0.955) infinite alternate both;
+  -ms-animation: flip-vertical-left 2s cubic-bezier(0.455, 0.030, 0.515, 0.955) infinite alternate both;
+  -o-animation: flip-vertical-left 2s cubic-bezier(0.455, 0.030, 0.515, 0.955) infinite alternate both;
+  animation: flip-vertical-left 2s cubic-bezier(0.455, 0.030, 0.515, 0.955) infinite alternate both;
+  transform-box: fill-box;
+  transform-origin: center;
+}
+
+#giftbox1 {
+  transform-origin: top;
+  transform-box: fill-box; 
+}
+
+#jhalar1, #jhalar6 {
+  -webkit-animation: swing ease-in-out 1s infinite alternate;
+  -moz-animation: swing ease-in-out 1s infinite alternate;
+  -ms-animation: swing ease-in-out 1s infinite alternate;
+  -o-animation: swing ease-in-out 1s infinite alternate;
+  animation: swing ease-in-out 1s infinite alternate;
+  transform-origin: top;
+  transform-box: fill-box;
+}
+
+#jhalar2, #jhalar5 {
+  -webkit-animation: swing ease-in-out 1.3s infinite alternate;
+  -moz-animation: swing ease-in-out 1.3s infinite alternate;
+  -ms-animation: swing ease-in-out 1.3s infinite alternate;
+  -o-animation: swing ease-in-out 1.3s infinite alternate;
+  animation: swing ease-in-out 1.3s infinite alternate;
+  transform-origin: top;
+  transform-box: fill-box;
+}
+
+#jhalar3 {
+  -webkit-animation: swing ease-in-out 1.5s infinite alternate;
+  -moz-animation: swing ease-in-out 1.5s infinite alternate;
+  -ms-animation: swing ease-in-out 1.5s infinite alternate;
+  -o-animation: swing ease-in-out 1.5s infinite alternate;
+  animation: swing ease-in-out 1.5s infinite alternate;
+  transform-origin: top;
+  transform-box: fill-box;
+}
+
+#Group_23 {
+  -webkit-animation: scale-in-center 2s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  -moz-animation: scale-in-center 2s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  -ms-animation: scale-in-center 2s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  -o-animation: scale-in-center 2s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  animation: scale-in-center 2s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  transform-box: fill-box;
+  transform-origin: center;
+}
+
+#Group_11 {
+  -webkit-animation: scale-in-center 2.3s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  -moz-animation: scale-in-center 2.3s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  -ms-animation: scale-in-center 2.3s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  -o-animation: scale-in-center 2.3s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  animation: scale-in-center 2.3s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  transform-box: fill-box;
+  transform-origin: center; 
+}
+
+#Group_10 {
+  -webkit-animation: scale-in-center 1.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  -moz-animation: scale-in-center 1.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  -ms-animation: scale-in-center 1.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  -o-animation: scale-in-center 1.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  animation: scale-in-center 1.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  transform-box: fill-box;
+  transform-origin: center;  
+}
+
+#Group_9 {
+  -webkit-animation: scale-in-center 1.8s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  -moz-animation: scale-in-center 1.8s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  -ms-animation: scale-in-center 1.8s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  -o-animation: scale-in-center 1.8s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  animation: scale-in-center 1.8s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  transform-box: fill-box;
+  transform-origin: center; 
+}
+
+#Group_28 {
+  -webkit-animation: scale-in-center 1.7s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  -moz-animation: scale-in-center 1.7s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  -ms-animation: scale-in-center 1.7s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  -o-animation: scale-in-center 1.7s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  animation: scale-in-center 1.7s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  transform-box: fill-box;
+  transform-origin: center; 
+}
+
+#Group_24 {
+  -webkit-animation: scale-in-center 1.6s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  -moz-animation: scale-in-center 1.6s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  -ms-animation: scale-in-center 1.6s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  -o-animation: scale-in-center 1.6s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  animation: scale-in-center 1.6s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  transform-box: fill-box;
+  transform-origin: center; 
+}
+
+#Group_25 {
+  -webkit-animation: scale-in-center 1.4s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  -moz-animation: scale-in-center 1.4s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  -ms-animation: scale-in-center 1.4s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  -o-animation: scale-in-center 1.4s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  animation: scale-in-center 1.4s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  transform-box: fill-box;
+  transform-origin: center; 
+}
+
+#Group_13, #Group_14, #Group_26 {
+  -webkit-animation: scale-in-center 1.3s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  -moz-animation: scale-in-center 1.3s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  -ms-animation: scale-in-center 1.3s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  -o-animation: scale-in-center 1.3s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  animation: scale-in-center 1.3s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  transform-box: fill-box;
+  transform-origin: center; 
+}
+
+#Group_27 {
+  -webkit-animation: scale-in-center 1.2s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  -moz-animation: scale-in-center 1.2s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  -ms-animation: scale-in-center 1.2s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  -o-animation: scale-in-center 1.2s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  animation: scale-in-center 1.2s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  transform-box: fill-box;
+  transform-origin: center; 
+}
+
+#Group_12 {
+  -webkit-animation: scale-in-center 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  -moz-animation: scale-in-center 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  -ms-animation: scale-in-center 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  -o-animation: scale-in-center 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  animation: scale-in-center 1s cubic-bezier(0.250, 0.460, 0.450, 0.940) infinite alternate both;
+  transform-box: fill-box;
+  transform-origin: center; 
+}
+
+@-webkit-keyframes scale-in-center {
+  0% {
+    -webkit-transform: scale(0);
+    -moz-transform: scale(0);
+    -ms-transform: scale(0);
+    -o-transform: scale(0);
+    transform: scale(0);
+    opacity: 1;
+  }
+  100% {
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    -o-transform: scale(1);
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes swing {
+  0% {
+    -webkit-transform: rotate(3deg);
+    -moz-transform: rotate(0);
+    -ms-transform: rotate(3deg);
+    -o-transform: rotateY(3deg)
+    transform: rotate(3deg); 
+ }
+  100% {
+    -webkit-transform: rotate(-3deg);
+    -moz-transform: rotate(0);
+    -ms-transform: rotate(-3deg);
+    -o-transform: rotateY(-3deg);
+    transform: rotate(-3deg);
+
+ }
+}
+
+@-webkit-keyframes flip-vertical-left {
+  0% {
+    -webkit-transform: rotateY(0);
+    -moz-transform: rotateY(0);
+    -ms-transform: rotateY(0);
+    -o-transform: rotateY(0);
+    transform: rotateY(0);
+  }
+  100% {
+    -webkit-transform: rotateY(-180deg);
+    -moz-transform: rotateY(-180deg);
+    -ms-transform: rotateY(-180deg);
+    -o-transform: rotateY(-180deg);
+    transform: rotateY(-180deg);
+  }
+}
+
+@-webkit-keyframes rotate-center {
+  0% {
+    -webkit-transform: rotate(0);
+    -moz-transform: rotate(0);
+    -ms-transform: rotate(0);
+    -o-transform: rotate(0);
+    transform: rotate(0);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    -moz-transform: rotate(360deg);
+    -ms-transform: rotate(360deg);
+    -o-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
